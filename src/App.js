@@ -1,4 +1,4 @@
-AppLinkimport React, { Component } from 'react';
+AppLinkimport; React, { Component } from 'react';
 import styled from 'styled-components';
 import Rules from './Components/Rules';
 import Game from './Components/Game';
